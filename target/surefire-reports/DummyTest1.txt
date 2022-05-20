@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: DummyTest1
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0 s <<< FAILURE! - in DummyTest1
+ufukDummyTest1(DummyTest1)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError
+	at DummyTest1.ufukDummyTest1(DummyTest1.java:15)
+
